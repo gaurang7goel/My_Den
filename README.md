@@ -20,3 +20,4 @@
 <br><br>
 [![Gaurang's github activity graph](https://activity-graph.herokuapp.com/graph?username=gaurang7goel&bg_color=000000&color=9e4c98&line=8080c0&point=ffff00&area=true&hide_border=true)](https://github.com/gaurang7goel/github-readme-activity-graph)
 <br>
+[![@adityasharma's Holopin board](https://holopin.io/api/user/board?user=adityassharma-ss)](https://holopin.io/@adityasharma)
