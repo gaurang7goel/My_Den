@@ -13,7 +13,7 @@
 <br>
 
 <br>
-
+<p align="center">
 [![Gaurang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurang7goel&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/gaurang7goel/github-readme-stats)
 
 <br>
