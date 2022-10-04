@@ -26,4 +26,6 @@
 <br><br>
 [![Gaurang's github activity graph](https://activity-graph.herokuapp.com/graph?username=gaurang7goel&bg_color=000000&color=9e4c98&line=8080c0&point=ffff00&area=true&hide_border=true)](https://github.com/gaurang7goel/github-readme-activity-graph)
 <br>
+[![](https://visitcount.itsvg.in/api?id=gaurang7goel&icon=4&color=0)](https://visitcount.itsvg.in)
+
 
