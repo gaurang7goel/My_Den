@@ -28,4 +28,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=gaurang7goel&icon=4&color=0)](https://visitcount.itsvg.in)
 
+[![gaurang7goel's GitHub | Stats](https://stats.quine.sh/gaurang7goel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gaurang7goel)
+
 
