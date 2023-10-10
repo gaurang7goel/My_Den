@@ -1,5 +1,4 @@
-
-[![@gaurang7goel's Holopin board](https://holopin.me/gaurang7goel)](https://holopin.io/@gaurang7goel)
+[![An image of @gaurang7goel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gaurang7goel)](https://holopin.io/@gaurang7goel)
 
 
 <h1 align="center">Hi 👋, I'm Gaurang</h1>
