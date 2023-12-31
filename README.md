@@ -32,3 +32,9 @@
 [![gaurang7goel's GitHub | Stats](https://stats.quine.sh/gaurang7goel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gaurang7goel)
 
 [![gaurang7goel's GitHub | Languages Over Time](https://stats.quine.sh/gaurang7goel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=gaurang7goel)
+
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+[![Gaurang GitHub activity grap](https://github-readme-activity-graph.cyclic.app/graph?username=gaurang7goel&theme=github-compact)](https://github.com/gaurang7goel/github-readme-activity-graph)
+
